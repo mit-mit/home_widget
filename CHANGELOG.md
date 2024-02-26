@@ -1,3 +1,7 @@
+## 0.5.0
+* fix: breaking change in Flutter's `ViewConfiguration` constructor.
+* home_widget now requires Flutter 3.20 or later.
+
 ## 0.4.1
 * Fix First Background on iOS being ignored by [mchudy](https://github.com/mchudy) in [#188](https://github.com/ABausG/home_widget/pull/188)
 
